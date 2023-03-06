@@ -24,3 +24,11 @@ The goals of this challenge are:
 * Model(s) Development and Training
 * Evaluate the best Model
 
+
+### Resources
+
+__Omdena__ Article Link [here](https://omdena.com/projects/improving-extreme-weather-forecasts-using-ai/)
+
+
+__Kaggle__ WiDS Datathon 2023 Data Link [here](https://www.kaggle.com/competitions/widsdatathon2023)
+
