@@ -12,3 +12,15 @@ Various Machine Learning methods can be used to make these predictions, such as 
 Data can be augmented with meteorological data such as temperature, wind speed, and vapor pressure from National Oceanic and Atmospheric Administration (NOAA).  
 
 One of the key challenges will be to choose a subset of appropriate features that impact a weather forecast’s predictions to be used in model training.
+
+
+### The Goals
+
+The goals of this challenge are: 
+
+* Data Collection and Exploratory Data Analysis
+* Preprocessing 
+* Feature Extraction
+* Model(s) Development and Training
+* Evaluate the best Model
+
