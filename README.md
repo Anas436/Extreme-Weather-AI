@@ -5,7 +5,7 @@
 
 ### The Problem
 
-In this project, the team will model data to predict the arithmetic mean of the maximum and minimum temperature over the next 14 days for each location and start date for longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
+In this project, the model data to predict the arithmetic mean of the maximum and minimum temperature over the next 14 days for each location and start date for longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
 
 Various Machine Learning methods can be used to make these predictions, such as Random Forests, XGBoost, and Convolutional Neural Networks (CNNs). The team will explore several choices.
 
